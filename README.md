@@ -61,5 +61,7 @@ Mode explainations:
     The postion of the servo motor is determined by the angle entered in the PuTTY terminal. 
   Mode 5:
     The speed of the DC motor is determined by the input from the PuTTY terminal. 
-    
+
+More detail on how each component works and how each element on the board is utilized is found in the EE260_finalproject.pdf report.
+
 The code is not the neatest as there was a strict time constraint and making the 5 modes meet the requirements was the main priority.
